@@ -1,7 +1,7 @@
 <?php
 namespace App\Models;
 
-class producto extends \Illuminate\Database\Eloquent\Model{
+class mesa extends \Illuminate\Database\Eloquent\Model{
     public $timestamps = false;
 }
 ?>
