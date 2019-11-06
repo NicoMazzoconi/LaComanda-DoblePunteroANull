@@ -14,6 +14,6 @@ Objetivos: Altas
 *Alta Cliente (responsable:)   
 *ALta mesa (responsable:)
 
-icono y splash animado (responsable:) 
+icono y splash animado (responsable:); 
 
 
